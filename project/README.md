@@ -6,7 +6,7 @@
 
 _(Добавьте ссылку на GitHub Pages или Vercel, если задеплоите)_
 
-## 🛠 Стек технологий
+## Стек технологий
 
 - **React 18** + **TypeScript** (Vite)
 - **React Router v6** (навигация, динамические маршруты)
@@ -51,3 +51,16 @@ src/
 - Работать с URL-параметрами для фильтрации (`useSearchParams`).
 - Оптимизировать рендер списков через `React.memo` и мемоизацию функций.
 - Настраивать SPA-роутинг с защитой от несуществующих URL.
+
+<img width="1919" height="911" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b89b731d-e986-432f-bedc-a9c14aad9af7" />
+<img width="1919" height="922" alt="post_request" src="https://github.com/user-attachments/assets/fcb56671-2faa-4022-ac33-b9167d39bab2" />
+<img width="1919" height="921" alt="validation" src="https://github.com/user-attachments/assets/91471c11-7c83-4ea1-a633-7c239a269154" />
+<img width="1756" height="890" alt="search" src="https://github.com/user-attachments/assets/d9c813b5-6da8-4390-b517-ccf8b5f9c45e" />
+<img width="1128" height="913" alt="favorites_no" src="https://github.com/user-attachments/assets/da3efe7b-a5da-425c-86de-925c05edf5ec" />
+
+
+
+
+
+
+
